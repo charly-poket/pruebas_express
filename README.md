@@ -1,6 +1,6 @@
-#__Requisitos de la Práctica__
+# __Requisitos de la Práctica__
 
-##Práctica:Primeros pasos en NodeJS
+## Práctica:Primeros pasos en NodeJS
 
 Reescriba los apuntes realizados en la Práctica: Tareas Iniciales para seguir una estructura de directorios diferente, simplificando el despliegue en gh-pages.
 
@@ -16,9 +16,9 @@ Despliegue el libro en su máquina virtual del iaas.ull.es siguiendo las instruc
 SERVICIO IAAS de la ULL
 Como Desplegar una Aplicación Web en iaas.ull.es
 
-#__LINKS__
+# __LINKS__
 
-##CAMPUS
+## CAMPUS
 
 * [Campus de la asignatura](https://campusvirtual.ull.es/1617/course/view.php?id=1136)
 
@@ -32,7 +32,7 @@ Como Desplegar una Aplicación Web en iaas.ull.es
 
 
 
-##GRUPO
+## GRUPO
 
 * [Carlos Fernández Donate](https://charly-poket.github.io)
 
